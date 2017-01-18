@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/code-mine/FoodOrderingSystem/resources/views/customer/dashboard.blade.php</file>
+            <file>file:/D:/code-mine/FoodOrderingSystem/resources/views/customer/addOffice.blade.php</file>
+            <file>file:/D:/code-mine/FoodOrderingSystem/app/Customer.php</file>
+            <file>file:/D:/code-mine/FoodOrderingSystem/app/Http/Controllers/HomeCustomerController.php</file>
+            <file>file:/D:/code-mine/FoodOrderingSystem/routes/web.php</file>
+            <file>file:/D:/code-mine/FoodOrderingSystem/resources/views/addItemMenu.blade.php</file>
+        </group>
+    </open-files>
+</project-private>
